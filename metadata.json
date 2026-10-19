@@ -1,0 +1,6 @@
+{
+  "name": "智能冰箱靈感大廚 (Smart Fridge Chef)",
+  "description": "AI 智慧冰箱盤點與客製化食譜生成器，支援拍照辨識、飲食偏好篩選、一鍵換菜與庫存自動扣除。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
